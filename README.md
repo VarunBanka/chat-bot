@@ -31,7 +31,7 @@ pip install wikipedia
 
 ## Usage
 
-To use the application simply start the application by running the following command in your terminal:
+To use the application simply start the application by download the main.py file and then running the following command in your terminal:
 
 ```shell
 python main.py
