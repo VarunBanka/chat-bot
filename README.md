@@ -36,5 +36,8 @@ To use the application simply start the application by download the main.py file
 ```shell
 python main.py
 ```
+OR
+
+If you are on windows, download the exe file and run it.
 
 The program will start, starting speaking....................
