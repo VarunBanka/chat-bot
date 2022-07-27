@@ -15,6 +15,7 @@ with sr.Microphone() as source:
     print("\n")
     print("\n")
     print("\n")
+#code by Varun Banka 
     print("\n")
     audio = r.listen(source)
 
