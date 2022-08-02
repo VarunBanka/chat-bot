@@ -41,7 +41,7 @@ elif r.recognize_google(audio) == "tell me a joke" or r.recognize_google(audio) 
     bots_reply =pyjokes.get_joke()
 else:
 
-    bots_reply = wikipedia.summary("Wikipedia")
+    bots_reply = wikipedia.summary(r.recognize_google(audio))
 
 #down below is code to speak
 
