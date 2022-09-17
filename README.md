@@ -10,8 +10,11 @@ You can install Python 3.8 or higher [here](https://www.python.org/downloads/).
 
 This projects uses the following:
 	pyjokes
+
 	pyttsx3
+
 	speech_recognition
+
 	wikipedia
 
 After installing Python run the following command to install the needed dependencies:
