@@ -4,19 +4,10 @@ import pyttsx3
 import wikipedia
 r = sr.Recognizer()
 with sr.Microphone() as source:
-    print("\n")
-    print("\n")
-    print("\n")
-    print("\n")
-
-    print("                                                     listening...          ")
-    print("\n")
-    print("\n")
-    print("\n")
-    print("\n")
-    print("\n")
-#code by Varun Banka 
-    print("\n")
+#code by kusti420 
+    print(f"""{"" * 4}
+                                                               listening...          
+{"" * 6}""")
     audio = r.listen(source)
 
 
