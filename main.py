@@ -5,9 +5,9 @@ import wikipedia
 r = sr.Recognizer()
 with sr.Microphone() as source:
 #code by kusti420 
-    print(f"""{"\n" * 4}
+    print(f"""{"" * 4}
                                                                listening...          
-{"\n" * 6}""")
+{"" * 6}""")
     audio = r.listen(source)
 
 
