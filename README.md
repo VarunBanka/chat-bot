@@ -9,6 +9,7 @@ To use this program, you need to have Python 3.8 or higher installed.
 You can install Python 3.8 or higher [here](https://www.python.org/downloads/).
 
 This projects uses the following:
+
 	pyjokes
 
 	pyttsx3
@@ -34,13 +35,15 @@ pip install wikipedia
 
 ## Usage
 
-To use the application simply start the application by download the main.py file and then running the following command in your terminal:
+Download
 
-```shell
-python main.py
-```
+Extract
+
+Run
+
+
 OR
 
 If you are on windows, download the exe file and run it.
 
-The program will start, starting speaking....................
+The program will start
