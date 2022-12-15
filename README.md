@@ -6,44 +6,53 @@ As the name suggests, this is a open source chat bot made using python.
 
 To use this program, you need to have Python 3.8 or higher installed.
 
+### Installation of the requirements
 You can install Python 3.8 or higher [here](https://www.python.org/downloads/).
 
-This projects uses the following:
 
-	pyjokes
+### After installing Python run the following command to install the needed dependencies:
 
-	pyttsx3
-
-	speech_recognition
-
-	wikipedia
-
-After installing Python run the following command to install the needed dependencies:
+```shell
+pip install pyttsx3
+```
 
 ```shell
 pip install SpeechRecognition
 ```
+
 ```shell
-pip install pyjokes
+pip install DateTime
 ```
-```shell
-pip install pyttsx3
-```
+
 ```shell
 pip install wikipedia
 ```
 
-## Usage
+```shell
+pip install pycopy-webbrowser
+```
+
+```shell
+pip install os-sys
+```
+
+```shell
+pip install secure-smtplib
+```
+
+```shell
+pip install pywhatkit
+```
+
+```shell
+pip install pyjokes
+```
+
+
+### Usage
 
 Download
 
 Extract
 
 Run
-
-
-OR
-
-If you are on windows, download the exe file and run it.
-
-The program will start
